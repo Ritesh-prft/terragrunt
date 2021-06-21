@@ -1,5 +1,4 @@
 variable "ami_id" {}
 
-variable "type"{
-    default = "t2.nano"
+variable "instance_type"{
 }
