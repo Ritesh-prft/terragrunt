@@ -1,5 +1,5 @@
 variable "ami_id" {}
 
 variable "type"{
-    default = "t2.micro"
+    default = "t2.nano"
 }
